@@ -1,0 +1,71 @@
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Build directories
+cmake-build-*/
+
+# Executables and object files
+*.out
+*.o
+*.a
+*.so
+*.exe
+*.dll
+*.pdb
+*.lib
+*.obj
+*.dylib
+
+# CLion project files
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Visual Studio
+.vscode/
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.db
+*.suo
+*.user
+*.userossc
+*.tt
+*.tlog
+*.log
+*.lastbuildstate
+*.ipch
+*.pdb
+*.cachefile
+*.iobj
+*.ipdb
+*.idb
+*.dir
+*.obj
+*.exe
+*.ilk
+*.aps
+*.pch
+*.rsp
+*.tmp
+*.tli
+*.tlh
+*.vscode/
+*.VC.db
+*.VC.opendb
+
+# Visual Studio auto-generated files
+GeneratedFiles/
+*.gen.cpp
