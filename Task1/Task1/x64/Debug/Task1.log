@@ -1,4 +1,0 @@
-﻿  Task1.cpp
-C:\Users\user\source\repos\Task1\Task1\Task1.cpp(14,13): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\user\source\repos\Task1\Task1\Task1.cpp(15,9): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-  Task1.vcxproj -> C:\Users\user\source\repos\Task1\x64\Debug\Task1.exe
